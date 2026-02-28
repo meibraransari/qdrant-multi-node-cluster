@@ -1,4 +1,4 @@
-# 🚀🧱 Qdrant Deployment & Cluster Setup Guide
+# 🚀🧱 Qdrant Multi-Node Cluster Setup Guide
 
 > A complete guide to deploying and managing Qdrant from a single node setup to a full production cluster.
 
