@@ -484,8 +484,8 @@ flowchart TB
     class N2,N3 follower;
 ```
 
-## 🌐 Access Services using IP or localhost
-
+## 🌐 Access Services using IP/localhost or Nginx-LoadBalancer
+* Nginx LoadBalancer: [http://192.168.1.210](http://192.168.1.210)
 * Qdrant API: [http://localhost:6333](http://localhost:6333)
 * Qdrant Dashboard: [http://localhost:6333/dashboard](http://localhost:6333/dashboard)
 * Qdrant Cluster: [http://localhost:6333/cluster](http://localhost:6333/cluster)
