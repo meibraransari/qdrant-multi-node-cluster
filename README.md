@@ -2,6 +2,11 @@
 
 > A complete guide to deploying and managing Qdrant from a single node setup to a full production cluster.
 
+## 🎬 Video Demonstration
+
+[![Watch on Youtube](https://i.ytimg.com/vi/WwDzFtBopsk/maxresdefault.jpg)](https://youtu.be/WwDzFtBopsk)
+
+
 # 🚀 Single Node Deployment
 
 > [https://qdrant.tech/documentation/guides/installation/](https://qdrant.tech/documentation/guides/installation/)
