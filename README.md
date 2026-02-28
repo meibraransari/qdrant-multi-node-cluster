@@ -49,7 +49,9 @@ docker compose ps
 
 # 🧱 Cluster Setup
 
-> [https://qdrant.tech/documentation/guides/distributed_deployment/](https://qdrant.tech/documentation/guides/distributed_deployment/)
+## Official Links.
+- [Qdrant Distributed Deployment Guide](https://qdrant.tech/documentation/guides/distributed_deployment/)
+- [Qdrant Docker Hub Tags](https://hub.docker.com/r/qdrant/qdrant/tags)
 
 ## 🎯 Recommended Architecture by Scale
 
